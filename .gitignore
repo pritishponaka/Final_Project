@@ -1,0 +1,4 @@
+data_raw/
+outputs/
+__pycache__/
+.ipynb_checkpoints/
